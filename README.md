@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MongoPop
 
 Wednesday, 22 February 2017.
@@ -34,3 +35,5 @@ Browse to `http://localhost:3000/react` (or to the IP address or hostname specif
 * Add Amazon Alexa client?
 * Consider AWS Lambda?
 * Consider iOS Workflow?
+=======
+# Mongopop
